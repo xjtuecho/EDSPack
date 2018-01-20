@@ -24,7 +24,7 @@ SDS7102等型号。EDSPack可以方便地更换18650电池，更换电池无需焊接。EDSPack
  
 ![主板端子布局](image/01-主板端子布局.png "主板端子布局")
  
-![EDSPack实物图](image/02-EDSPack实物图.png "EDSPack实物图")
+![EDSPack实物图](image/09-EDSPack实物图.png "EDSPack实物图")
 
 ### 端子说明
 端子与主要器件见下表:
