@@ -1,9 +1,9 @@
 # EDSPack User Manual
 
-EDSPack is a battery pack module for a serires of OWON oscilloscope, including 
-but not limited to EDS102C, SDS7102 etc. Users can replace 18650 batteries on 
-EDSPack convenient and efficient, and do not need a solding iron. With excellent
-protection and balance feature, EDSPack can extend battery cycling life。
+EDSPack is a battery pack module for a series of OWON oscilloscope, including
+but not limited to EDS102C, SDS7102 etc. Users can replace 18650 batteries on
+EDSPack convenient and efficient, and do not need a soldering iron. With excellent
+protection and balance feature, EDSPack can extend battery cycling life.
 
 ## Parameters and Ports
 
@@ -18,14 +18,14 @@ Please refer to the table below:
 | Nominal Voltage  | 7.4V        |       |
 | Charging Voltage | 8.4V        |       |
 | Protection Scheme| HY2120CB    | HYCON |
-| Banance Scheme   | HY2213-BB3A | HYCON |
+| Balance Scheme   | HY2213-BB3A | HYCON |
 
 ### Ports layout
 
-Board ports layout and physical photograph:：
- 
+Board ports layout and physical photograph:
+
 ![Board ports layout](image/01-主板端子布局.png "Board ports layout")
- 
+
 ![physical photograph](image/09-EDSPack实物图.png "physical photograph")
 
 ### Ports description
@@ -40,21 +40,21 @@ Ports and main components please refer to the table below:
 | B-           | Battery-               |                  |
 | P-           | Battery Pack-          |                  |
 
-
 ## User guide
 
 ### Battery selection and install
 
 EDSPack can install four 18650 batteries, two in parallel and two in series.
 Before install batteries, you should make sure that the voltages are identical.
-You can check the voltage of batteries with multimeter. If the voltages are 
+You can check the voltage of batteries with multimeter. If the voltages are
 different, charge them fully with the same charger, and install them one by one.
 
 Warning:
- 1. Battery polarities must be correct, **all 4 battery positive electrode(+) point to chips**. 
+
+ 1. Battery polarities must be correct, **all 4 battery positive electrode(+) point to chips**.
     Otherwise, serious damage including fire disaster might be caused.
  2. When the battery is first time installed, EDSPack is under protection status,
-    short-circuit VM (R8 right) and B-(C5 down) networks or charge EDSPack to 
+    short-circuit VM (R8 right) and B-(C5 down) networks or charge EDSPack to
     regain normal status. This is normal feature of protection circuit.
 
 EDSPack is compatible with most 18650 battery.
@@ -71,7 +71,7 @@ Take EDS102CV as example:
 
 Tear down the battery cover, put the oscilloscope to a soft surface (bed, sofa, etc),  
 then install EDSPack. Insert a 10x10cm thick paper to the top of EDSPack to make
-sure it doesn'shake. Refer to the photo below:
+sure it doesn't shake. Refer to the photo below:
 
 ![After install EDSPack](image/03-装入EDSPack以后的电池仓.png "After install EDSPack")
 
@@ -79,7 +79,7 @@ Use soft stuff such as bubble plastic to fill the space between EDSPack and
 battery cover, then install the battery cover.
 
 If EDSPack is not activated, connect the mains and power on the oscilloscope to activate it.
- 
+
 ### Standalone power supply
 
 EDSPack also can be used as a 7.4V standalone power supply.
@@ -96,28 +96,28 @@ In fact, J1 port connects to network of B+ and P- pads.
 
 Take EDS102CV for example, the normal working current is about 1.85A. After shutdown, 
 the quiescent current is about 2.3mA, then we can estimate the battery life.
- 
+
 ![Shutdown quiescent current](image/04-关机静态电流.png "Shutdown quiescent current")
- 
+
 ![Power on working current](image/05-开机工作电流.png "Power on working current")
 
 The normal working time of 5200mAh battery pack is `5.2/1.85=2.8` hours. Standby 
-time is about `5200/2.3/24=94` days。
+time is about `5200/2.3/24=94` days.
 
-Other battery pack capacities can be calcutated in this way.
+Other battery pack capacities can be calculated in this way.
 
 Warning: *The quiescent current of EDS102CV after shutdown is quite high, about 2.3mA.
 A long-time idle may run out of your batteries. You should recharge your oscilloscope
-once in a while. This is issue of oscilloscope itself, not battery pack.*。
+once in a while. This is issue of oscilloscope itself, not battery pack.*.
 
 ### Voltage test
 
 When EDSPack is fully charged, voltage test result please refer to photos below:
- 
+
 ![Two cells in series voltage test](image/06-两节电池电压测试.png "Two cells in series voltage test")
- 
+
 ![Bottom cells voltage test](image/07-底部电池电压测试.png "Bottom cells voltage test")
- 
+
 ![Top cells voltage test](image/08-顶部电池电压测试.png "Top cells voltage test")
 
 ## More information
