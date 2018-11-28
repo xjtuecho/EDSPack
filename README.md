@@ -1,4 +1,9 @@
+[English User Manual](UserManual_EN.md)
+
+[English Release Notes](ReleaseNotes_EN.md)
+
 # EDSPack用户手册
+
 EDSPack是一款电池组模块，可以用于OWON的一系列示波器，包括但不限于EDS102CV、
 SDS7102等型号。EDSPack可以方便地更换18650电池，更换电池无需焊接。EDSPack
 本身具备完善的保护和均衡功能，可以最大限度提高电池循环寿命。
