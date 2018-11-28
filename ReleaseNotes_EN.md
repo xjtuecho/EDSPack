@@ -7,7 +7,7 @@
 
 ### v17.9.28
 
-- Incerase insulation distance of B-, B+, P- pads.
+- Increase insulation distance of B-, B+, P- pads.
 - Optimize PCB layout, adjust location of R8 and C5.
 - When installing battery for the first time, EDSPack is under protection status,
   short-circuit VM (R8 right) and B-(C5 down) networks to regain normal status.
@@ -19,5 +19,5 @@
 
 ### v15.9.24
 
-- Initial release. Utilizing four 18650x1 battery holder, 
+- Initial release. Utilizing four 18650x1 battery holder,
   with protection and balance function, tested OK.
