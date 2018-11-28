@@ -119,5 +119,6 @@ EDSPack在示波器中充满电以后，电压见下图所示：
 
 ## 更多信息
 
-[购买链接](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-9102396040.29.17d11e5fmlPS4n&id=522970098585)
+[发布日志](ReleaseNotes.md)
 
+[购买链接](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-9102396040.29.17d11e5fmlPS4n&id=522970098585)
