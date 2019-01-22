@@ -2,6 +2,12 @@
 
 [English Release Notes](ReleaseNotes_EN.md)
 
+# PDF用户手册下载
+
+- [EDSPack用户手册v18.10.31](DOC/EDSPack用户手册v18.10.31.pdf)
+
+- [STOPack用户手册v19.1.22](DOC/STOPack用户手册v19.1.22.pdf)
+
 # EDSPack用户手册
 
 EDSPack是一款电池组模块，可以用于OWON的一系列示波器，包括但不限于EDS102CV、
