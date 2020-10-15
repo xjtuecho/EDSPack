@@ -120,6 +120,19 @@ When EDSPack is fully charged, voltage test result please refer to photos below:
 
 ![Top cells voltage test](image/08-顶部电池电压测试.png "Top cells voltage test")
 
+## 3D printed case
+
+This case is designed by `Matthew Pearce <mpea413@aucklanduni.ac.nz>` with Solidworks.
+
+![3D printed case](OwonBatteryCase/Pictures/20191029_072656.jpg "3D printed case")
+
+![3D printed case](OwonBatteryCase/Pictures/20191029_074358.jpg "3D printed case")
+
+![3D printed case](OwonBatteryCase/Pictures/20191029_074707.jpg "3D printed case")
+
+[Design file download](OwonBatteryCase)
+
+
 ## More information
 
 [Release Notes](ReleaseNotes_EN.md)

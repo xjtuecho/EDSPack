@@ -130,6 +130,19 @@ EDSPack在示波器中充满电以后，电压见下图所示：
 
 ![顶部电池电压测试](image/08-顶部电池电压测试.png "顶部电池电压测试")
 
+## 3D打印外壳
+
+该外壳来自网友`Matthew Pearce <mpea413@aucklanduni.ac.nz>`，使用Solicworks设计，可直接打印。
+
+![3D打印外壳](OwonBatteryCase/Pictures/20191029_072656.jpg "3D打印外壳")
+
+![3D打印外壳](OwonBatteryCase/Pictures/20191029_074358.jpg "3D打印外壳")
+
+![3D打印外壳](OwonBatteryCase/Pictures/20191029_074707.jpg "3D打印外壳")
+
+[设计文件下载](OwonBatteryCase)
+
+
 ## 更多信息
 
 [发布日志](ReleaseNotes.md)
